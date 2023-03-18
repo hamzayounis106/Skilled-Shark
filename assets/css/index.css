@@ -1,0 +1,105 @@
+/* @media screen and (min-width: 800px) {
+    .benfits-financial{
+        margin-left: -5rem;
+    }
+    .my-heading{
+        margin-left: 4rem;
+
+    }
+  } */
+/* @media screen and (min-width: 500px) {
+    .benfits-financial{
+        margin-left: -7rem;
+    }
+    .my-heading{
+        margin-left: 5rem;
+
+    }
+  }
+@media screen and (min-width: 450px) {
+    .benfits-financial{
+        margin-left: -8rem;
+    }
+    .my-heading{
+        margin-left: 6rem;
+
+    }
+  }
+@media screen and (min-width: 350px) {
+    .benfits-financial{
+        margin-left: -9rem;
+    }
+    .my-heading{
+
+    }
+  } */
+@media screen and (max-width:985px) {
+    /* .benfits-financial {
+        margin-left: -8rem;
+    } */
+
+    .my-heading {
+        margin-left: 4rem;
+
+    }
+}
+
+@media screen and (max-width:690px) {
+    .benfits-financial {
+        margin-left: -5rem;
+    }
+
+    /* .my-item{
+    padding: -10px 2px;
+} */
+    /* .my-heading {
+        margin-left: 4rem;
+
+    } */
+}
+
+@media screen and (max-width:480px) {
+    .benfits-financial {
+        margin-left: -6rem;
+    }
+
+    .my-item {
+        width: 350px;
+    }
+
+    /* .my-heading {
+        margin-left: 4rem;
+
+    } */
+}
+@media screen and (max-width:400px) {
+    .benfits-financial {
+        margin-left: -7rem;
+    }
+
+    .my-item {
+        width: 350px;
+    }
+
+    /* .my-heading {
+        margin-left: 4rem;
+
+    } */
+}
+@media screen and (max-width:365px) {
+    .benfits-financial {
+        margin-left: -7rem;
+    }
+
+    .my-item {
+        width: 300px;
+    }
+
+    .my-heading {
+        margin-left: 2rem;
+
+    }
+    .pricing-tables .item{
+        height: 370px;
+    }
+}
