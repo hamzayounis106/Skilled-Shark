@@ -1,42 +1,6 @@
-/* @media screen and (min-width: 800px) {
-    .benfits-financial{
-        margin-left: -5rem;
-    }
-    .my-heading{
-        margin-left: 4rem;
 
-    }
-  } */
-/* @media screen and (min-width: 500px) {
-    .benfits-financial{
-        margin-left: -7rem;
-    }
-    .my-heading{
-        margin-left: 5rem;
-
-    }
-  }
-@media screen and (min-width: 450px) {
-    .benfits-financial{
-        margin-left: -8rem;
-    }
-    .my-heading{
-        margin-left: 6rem;
-
-    }
-  }
-@media screen and (min-width: 350px) {
-    .benfits-financial{
-        margin-left: -9rem;
-    }
-    .my-heading{
-
-    }
-  } */
 @media screen and (max-width:985px) {
-    /* .benfits-financial {
-        margin-left: -8rem;
-    } */
+   
 
     .my-heading {
         margin-left: 4rem;
@@ -49,13 +13,7 @@
         margin-left: -5rem;
     }
 
-    /* .my-item{
-    padding: -10px 2px;
-} */
-    /* .my-heading {
-        margin-left: 4rem;
 
-    } */
 }
 
 @media screen and (max-width:480px) {
@@ -67,11 +25,9 @@
         width: 350px;
     }
 
-    /* .my-heading {
-        margin-left: 4rem;
 
-    } */
 }
+
 @media screen and (max-width:400px) {
     .benfits-financial {
         margin-left: -7rem;
@@ -81,11 +37,37 @@
         width: 350px;
     }
 
-    /* .my-heading {
-        margin-left: 4rem;
 
-    } */
 }
+
+@media screen and (max-width:450px) {
+    .my-thumb {
+        padding: 1px 3px;
+    }
+
+
+}
+
+@media screen and (max-width:520px) {
+    .daba {
+        height: 13rem !important;
+
+    }
+}
+
+@media screen and (max-width:970px) {
+    .daba {
+        height: 13rem !important;
+
+    }
+}
+
+@media screen and (max-width:550px) {
+    .my-footer {
+        text-align: center;
+    }
+}
+
 @media screen and (max-width:365px) {
     .benfits-financial {
         margin-left: -7rem;
@@ -99,7 +81,35 @@
         margin-left: 2rem;
 
     }
-    .pricing-tables .item{
+
+    .pricing-tables .item {
         height: 370px;
     }
+}
+
+@media screen and (max-width:345px) {
+    .benfits-financial {
+        margin-left: -7rem;
+    }
+
+    .pricing-tables .item {
+        padding: 1px 1px;
+    }
+
+    .my-heading {
+        margin-left: 1.5rem;
+
+    }
+
+    .my-heading h2 {
+        font-size: 22px;
+    }
+
+    .my-heading h2 span {
+
+        font-size: 22px;
+
+
+    }
+
 }
